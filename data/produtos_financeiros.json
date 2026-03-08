@@ -32,6 +32,14 @@
     "indicado_para": "Perfil moderado que busca diversificação"
   },
   {
+    "nome": "Fundo Imobiliario (FII)",
+    "categoria": "fundo",
+    "risco": "Baixo",
+    "rentabilidade": "12%",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Perfil moderado que busca diversificação"
+  },
+  {
     "nome": "Fundo de Ações",
     "categoria": "fundo",
     "risco": "alto",
